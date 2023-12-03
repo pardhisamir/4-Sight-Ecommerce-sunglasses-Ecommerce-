@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 8vh;
+    padding: 8vh 0;
+    background-color: lightblue;
+}
+
+.footer .b a {
+    text-decoration: none;
+    color: red;
+}
+
+.footer .b a:hover {
+    color: #333;
+    font-size: large;
+}

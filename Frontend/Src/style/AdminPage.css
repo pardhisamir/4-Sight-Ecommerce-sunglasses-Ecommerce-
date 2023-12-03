@@ -1,0 +1,8 @@
+.admin-list {
+    list-style: none;
+}
+
+.admin-list li {
+    margin: 2rem;
+    max-width: 10vw;
+}

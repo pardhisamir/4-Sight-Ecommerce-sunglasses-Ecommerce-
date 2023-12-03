@@ -1,0 +1,19 @@
+img {
+    max-height: 12rem;
+}
+
+.center {
+    justify-content: center;
+    align-items: center;
+}
+
+.product-container {
+    /* background-color: aliceblue; */
+    margin: 2rem;
+    padding: 1rem;
+    min-width: 70%;
+}
+
+.dropdown {
+    margin-left: 3rem;
+}
